@@ -4,7 +4,7 @@ This repository documents my preparation and research for my Master’s applicat
 
 ## 📑 Navigation
 
-| File / Folder | Description | Status |
+| File / Folder | Description | 
 | :--- | :--- | :--- |
 | [**PROJECT_DESCRIPTION.md**](./PROJECT_DESCRIPTION.md) | **In perpetual evolution:** Updates as my knowledge grows.
 | [**LEARNING_SYLLABUS.md**](./LEARNING_SYLLABUS.md) | **Building a solid foundation:** Preparing technical skills.
