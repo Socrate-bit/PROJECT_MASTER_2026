@@ -1,12 +1,11 @@
 ## 📚 Core Curriculum
-
-| Course / Resource | Focus & Key Topics | Status |
+| Educational Resource | Key Topics & Learning Focus | Status |
 | :--- | :--- | :--- |
-| **How to Prove It** (Velleman) | Mathematical reasoning, proof methodology, and set theory. | ![Status](https://img.shields.io/badge/Status-Done-green) |
-| **RL Lectures** (David Silver) | [Foundations of Reinforcement Learning.](https://davidstarsilver.wordpress.com/teaching/) | ![Status](https://img.shields.io/badge/Status-Done-green) |
-| **Comp. Biology of Aging** | [Introductory material](https://computationalaginglab.github.io/computational_aging_course/intro.html) for the biology of aging. | ![Status](https://img.shields.io/badge/Status-In_Progress-orange) |
-| **Systems Biology** (Uri Alon) | Systems biology basics and environment design for RL agents. | ![Status](https://img.shields.io/badge/Status-Waiting-lightgrey) |
-| **Probabilistic ML** (Murphy) | Math, information theory, and advanced ML foundations. | ![Status](https://img.shields.io/badge/Status-Waiting-lightgrey) |
+| **Book: How to Prove It** <br> *A Structured Approach* <br> Daniel J. Velleman | Mathematical reasoning, basic logic, and proof methodology. Covering set theory and relations. | ![Status](https://img.shields.io/badge/Status-Done-green) |
+| **Lecture Series: RL Course** <br> *Reinforcement Learning Foundations* <br> [David Silver (DeepMind/UCL)](https://davidstarsilver.wordpress.com/teaching/) | Introduction to MDPs, Bellman equations, and value-based/policy-based RL methods. | ![Status](https://img.shields.io/badge/Status-Done-green) |
+| **Course: Computational Biology** <br> *Introduction to the Biology of Aging* <br> [Computational Aging Lab](https://computationalaginglab.github.io/computational_aging_course/intro.html) | Introductory material focusing on the computational analysis of the aging process. | ![Status](https://img.shields.io/badge/Status-In_Progress-orange) |
+| **Lectures & Book: Systems Biology** <br> *An Introduction to Systems Biology* <br> [Uri Alon (Weizmann Institute)](https://www.weizmann.ac.il/mcb/alon/courses/systems-biology-2018) | Design principles of biological circuits and environment design for RL agents. | ![Status](https://img.shields.io/badge/Status-Waiting-lightgrey) |
+| **Book: Probabilistic ML** <br> *An Introduction* <br> Kevin Murphy | Refresher on mathematics and information theory. Deep dive into the math of Machine Learning. | ![Status](https://img.shields.io/badge/Status-Waiting-lightgrey) |
 
 ## 🔍 Papers
 * [x] **Yamanaka et al. (2006):** Induction of pluripotent stem cells.
