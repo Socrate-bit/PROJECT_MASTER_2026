@@ -17,7 +17,7 @@ This repository documents my preparation and research for my Master’s applicat
 
 | Phase | Objective | Duration | Status |
 | :--- | :--- | :--- | :--- |
-| **1. Foundations** | Deepen RL and Systems Biology knowledge for a strong technical base. | 6 Months | ![Status](https://img.shields.io/badge/Status-In_Progress-orange) |
+| **1. Foundations** | Deepen RL and Systems Biology knowledge for a strong technical base ([Progression](./LEARNING_SYLLABUS.md)). | 6 Months | ![Status](https://img.shields.io/badge/Status-In_Progress-orange) |
 | **2. Development** | Build the VAE manifold and the RL simulation environment. | 6 Months | ![Status](https://img.shields.io/badge/Status-Waiting-lightgrey) |
 | **3. Synthesis** | Combine results into a non-pluripotent rejuvenation framework. | 1 Month | ![Status](https://img.shields.io/badge/Status-Waiting-lightgrey) |
 | **4. Validation** | Transition from *in silico* results to *in vitro* testing. | 1 Month | ![Status](https://img.shields.io/badge/Status-Waiting-lightgrey) |
