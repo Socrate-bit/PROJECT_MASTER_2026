@@ -6,10 +6,10 @@ This repository documents my preparation and research for my Master’s applicat
 
 | File / Folder | Description | Status |
 | :--- | :--- | :--- |
-| [**PROJECT_DESCRIPTION.md**](./PROJECT_DESCRIPTION.md) | **In perpetual evolution:** Updates as my knowledge grows. | ![Status](https://img.shields.io/badge/Status-In_Progress-orange) |
-| [**LEARNING_SYLLABUS.md**](./LEARNING_SYLLABUS.md) | **Building a solid foundation:** Preparing technical skills. | ![Status](https://img.shields.io/badge/Status-In_Progress-orange) |
-| [**/code_practice**](./code_practice) | **Learning & Experimentation:** Course code and personal tests. | ![Status](https://img.shields.io/badge/Status-In_Progress-orange) |
-| [**/implementation**](./implementation) | **Core Project Code:** Technical work for the framework. | ![Status](https://img.shields.io/badge/Status-Waiting-lightgrey) |
+| [**PROJECT_DESCRIPTION.md**](./PROJECT_DESCRIPTION.md) | **In perpetual evolution:** Updates as my knowledge grows.
+| [**LEARNING_SYLLABUS.md**](./LEARNING_SYLLABUS.md) | **Building a solid foundation:** Preparing technical skills.
+| [**/code_practice**](./code_practice) | **Learning & Experimentation:** Course code and personal tests. 
+| [**/implementation**](./implementation) | **Core Project Code:** Technical work for the framework. 
 
 ---
 
