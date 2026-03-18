@@ -1,22 +1,14 @@
-### Core Syllabus
-* [x] **[✅ DONE]: How to Prove It by Daniel J. Velleman:**
-    * Mathematical reasoning and basic logic
-    * Mathematical proof methodology
-    * Set theory and relations
-* [x] **[✅ DONE]: RL Lectures by David Silver:**
-    * Reinforcement Learning (RL) foundations
-    * -> https://davidstarsilver.wordpress.com/teaching/
-* [x] **[⏳ IN PROGRESS]: Introduction to Computational Biology of Aging:**
-    * Introductory material for the computational biology of aging
-    * -> https://computationalaginglab.github.io/computational_aging_course/intro.html
-* [ ] **Uri Alon Lectures and Book (*An Introduction to Systems Biology*):**
-    * Introduction to systems biology
-    * Environment design for Reinforcement Learning agents
-* [ ] **Probabilistic Machine Learning: An Introduction (Kevin Murphy):**
-    * Mathematics, information theory, and Machine Learning (ML) refresher
-    * Advanced mathematical foundations of ML
+## 📚 Core Curriculum
 
-### Papers
+| Course / Resource | Focus & Key Topics | Status |
+| :--- | :--- | :--- |
+| **How to Prove It** (Velleman) | Mathematical reasoning, proof methodology, and set theory. | ![Status](https://img.shields.io/badge/Status-Done-green) |
+| **RL Lectures** (David Silver) | [Foundations of Reinforcement Learning.](https://davidstarsilver.wordpress.com/teaching/) | ![Status](https://img.shields.io/badge/Status-Done-green) |
+| **Comp. Biology of Aging** | [Introductory material](https://computationalaginglab.github.io/computational_aging_course/intro.html) for the biology of aging. | ![Status](https://img.shields.io/badge/Status-In_Progress-orange) |
+| **Systems Biology** (Uri Alon) | Systems biology basics and environment design for RL agents. | ![Status](https://img.shields.io/badge/Status-Waiting-lightgrey) |
+| **Probabilistic ML** (Murphy) | Math, information theory, and advanced ML foundations. | ![Status](https://img.shields.io/badge/Status-Waiting-lightgrey) |
+
+### 🔍 Papers
 * [x] **Yamanaka et al. (2006):** Induction of pluripotent stem cells.
 * [x] **Lapasset et al. (2011):** Rejuvenating senescent and centenarian cells.
 * [x] **Olova et al. (2019):** Partial reprogramming strategies.
