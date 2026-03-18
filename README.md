@@ -13,7 +13,7 @@ This repository documents my preparation and research for my Master’s applicat
 
 ## 🗺️ Roadmap
 
-1.  **Foundations:** Deepen my knowledge in RL and Systems Biology to create a strong technical base.
-2.  **Development:** Start the project by building the VAE manifold and the RL environment.
-3.  **Synthesis:** Combine the results into a clear framework for non-pluripotent rejuvenation.
-4.  **Validation:** Transition from *in silico* results to *in vitro* testing (Experimental Phase).
+1.  **Foundations:** Deepen my knowledge in RL and Systems Biology to create a strong technical base (6 months).
+2.  **Development:** Start the project by building the VAE manifold and the RL environment (6 months).
+3.  **Synthesis:** Combine the results into a clear framework for non-pluripotent rejuvenation (1 months).
+4.  **Validation:** Transition from *in silico* results to *in vitro* testing (Experimental Phase) (1 months).
