@@ -8,7 +8,7 @@
 | **Systems Biology** (Uri Alon) | Systems biology basics and environment design for RL agents. | ![Status](https://img.shields.io/badge/Status-Waiting-lightgrey) |
 | **Probabilistic ML** (Murphy) | Math, information theory, and advanced ML foundations. | ![Status](https://img.shields.io/badge/Status-Waiting-lightgrey) |
 
-### 🔍 Papers
+## 🔍 Papers
 * [x] **Yamanaka et al. (2006):** Induction of pluripotent stem cells.
 * [x] **Lapasset et al. (2011):** Rejuvenating senescent and centenarian cells.
 * [x] **Olova et al. (2019):** Partial reprogramming strategies.
