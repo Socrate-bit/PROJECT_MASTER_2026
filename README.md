@@ -6,10 +6,10 @@ This repository documents my preparation and research for my Master’s applicat
 
 | File / Folder | Description | 
 | :--- | :--- | :--- |
-| [**PROJECT_DESCRIPTION.md**](./PROJECT_DESCRIPTION.md) | **In perpetual evolution:** Updates as my knowledge grows.
-| [**LEARNING_SYLLABUS.md**](./LEARNING_SYLLABUS.md) | **Building a solid foundation:** Preparing technical skills.
-| [**/code_practice**](./code_practice) | **Learning & Experimentation:** Course code and personal tests. 
-| [**/implementation**](./implementation) | **Core Project Code:** Technical work for the framework. 
+| [**PROJECT_DESCRIPTION.md**](./PROJECT_DESCRIPTION.md) | **In perpetual evolution:** Updates as my knowledge grows. |
+| [**LEARNING_SYLLABUS.md**](./LEARNING_SYLLABUS.md) | **Building a solid foundation:** Preparing technical skills. |
+| [**/code_practice**](./code_practice) | **Learning & Experimentation:** Course code and personal tests. |
+| [**/implementation**](./implementation) | **Core Project Code:** Technical work for the framework. |
 
 ---
 
